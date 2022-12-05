@@ -1,0 +1,15 @@
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\bin\Debug\net6.0\obj.exe
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\bin\Debug\net6.0\obj.deps.json
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\bin\Debug\net6.0\obj.runtimeconfig.json
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\bin\Debug\net6.0\obj.dll
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\bin\Debug\net6.0\obj.pdb
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\obj.csproj.AssemblyReference.cache
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\obj.AssemblyInfoInputs.cache
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\obj.AssemblyInfo.cs
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\obj.csproj.CoreCompileInputs.cache
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\obj.dll
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\refint\obj.dll
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\obj.pdb
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\obj.genruntimeconfig.cache
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\obj\Debug\net6.0\ref\obj.dll

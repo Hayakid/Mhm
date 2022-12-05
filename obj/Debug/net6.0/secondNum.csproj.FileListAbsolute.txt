@@ -1,0 +1,15 @@
+C:\Users\Дэнчик\Desktop\Try\secondNum\bin\Debug\net6.0\secondNum.exe
+C:\Users\Дэнчик\Desktop\Try\secondNum\bin\Debug\net6.0\secondNum.deps.json
+C:\Users\Дэнчик\Desktop\Try\secondNum\bin\Debug\net6.0\secondNum.runtimeconfig.json
+C:\Users\Дэнчик\Desktop\Try\secondNum\bin\Debug\net6.0\secondNum.dll
+C:\Users\Дэнчик\Desktop\Try\secondNum\bin\Debug\net6.0\secondNum.pdb
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\secondNum.csproj.AssemblyReference.cache
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\secondNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\secondNum.AssemblyInfoInputs.cache
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\secondNum.AssemblyInfo.cs
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\secondNum.csproj.CoreCompileInputs.cache
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\secondNum.dll
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\refint\secondNum.dll
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\secondNum.pdb
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\secondNum.genruntimeconfig.cache
+C:\Users\Дэнчик\Desktop\Try\secondNum\obj\Debug\net6.0\ref\secondNum.dll
